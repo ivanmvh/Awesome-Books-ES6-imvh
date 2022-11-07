@@ -35,17 +35,17 @@ To remove a book from the list:
 
 ## Authors
 
-👤 **Wali Muhamad**
-
-- GitHub: @Itswali
-- Twitter: @Wali-Muhammad
-- LinkedIn: @wali-Muhammad
-
 👤 **Ivan Martinez von Halle**
 
 - GitHub: [@ivanmvh](https://github.com/ivanmvh)
 - Twitter: [@imprivado](https://twitter.com/imprivado)
 - LinkedIn: [Iván Martínez von Halle](https://www.linkedin.com/in/ivan-martinez-von-halle/)
+
+👤 **Wali Muhamad**
+
+- GitHub: @Itswali
+- Twitter: @Wali-Muhammad
+- LinkedIn: @wali-Muhammad
 
 ## 🤝 Contributing
 
