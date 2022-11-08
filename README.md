@@ -12,7 +12,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link] (...come soon)
+[Live Demo Link]https://ivanmvh.github.io/Awesome-Books-ES6-imvh/
 
 
 ## Getting Started
