@@ -10,7 +10,7 @@
 - JavaScript
 - CSS
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link]https://ivanmvh.github.io/Awesome-Books-ES6-imvh/
 
