@@ -2,10 +2,15 @@
 
 # Awesome Books
 
-"Awesome books" is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, we learned how to manage data using JavaScript. Thanks to that your website will be more interactive. We used a medium-fidelity wireframe to build the UI.
+In this project, we will reconstruct the project awesomeBooks with ES6 syntax, the main objectives of this project are:
+
+- Use ES6 modules to write modular JavaScript.
+- Learn how to use proper ES6 syntax.
+- Understand improvements that ES6 brings to JavaScript.
+- Use npm as software packages system.
 
 ## Built With
-
+- ES6
 - HTML
 - JavaScript
 - CSS
@@ -17,12 +22,19 @@
 
 ## Getting Started
 
+To get a local copy up and running follow these simple example steps.
+
 ### Prerequisites
 * Have git installed. (For version control)
 * Have text editor installed. (VSCode, sublime, atom)
 * Have CSS,HTML & JS Linters installed and configured. For further information, visit [this link](https://github.com/microverseinc/linters-config/blob/master/README.md) to get better understanding on each linters used on this project.
 
 ### Usage
+his page registers books with author and title of the book. To register a book:
+
+Type the author's name. Type the book's title. Click on Add button below. The books will be added to the list and will be displayed. To remove a book from the list:
+
+Find the book in the list. Click on remove button for the respective book.
 This page registers books with author and title of the book. To register a book:
 1. Type the author's name.
 2. Type the book's title.
